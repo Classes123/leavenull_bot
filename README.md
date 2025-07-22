@@ -4,5 +4,5 @@ A lightweight open-source solution for Telegram to show info about users who hav
 ## Setup
 The bot is available on [Docker Hub](https://hub.docker.com/r/endergofficial/leavenull_bot).
 
-## Environment varables
+## Environment variables
 For environment variables please visit the `src/config.py` script.
